@@ -1,4 +1,4 @@
-# Hi there, I'm Zach Sevart 👋
+# Hi 👋
 
 I am a student at the University of Kansas, currently pursuing a degree in Computer Science with an expected graduation date in 2026. My interests lie in the exciting field of machine learning, particularly deep learning and large language models (LLMs).
 
@@ -17,9 +17,6 @@ I am a student at the University of Kansas, currently pursuing a degree in Compu
 - 🤝 **Looking to Collaborate On:**
   - Open source large language model projects to gain a deeper understanding of the training processes.
 
-## Pronouns
-
-He/Him
 
 ## Connect with Me
 
@@ -45,9 +42,6 @@ He/Him
 ![DataStax](https://img.shields.io/badge/DataStax-000000?style=for-the-badge&logo=datastax&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 
-## Get in Touch
-
-Feel free to reach out if you want to discuss machine learning, AI engineering, or potential collaborations. I'm always open to new opportunities and learning experiences.
 
 ---
 
