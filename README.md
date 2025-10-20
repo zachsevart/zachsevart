@@ -6,8 +6,8 @@ I am a student at the University of Kansas, currently pursuing a degree in Compu
 
 - 🌱 **Currently Learning:**
   - LangChain
-  - OpenAI Models
-  - Vector Databases
+  - OpenAI Models and Implementation
+  - React Frontends
 
 - 💻 **Projects:**
   - Developing small apps to explore the integration of LangChain, OpenAI models, and vector databases.
