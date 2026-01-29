@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am a student at the University of Kansas, currently pursuing a degree in Computer Science with an expected graduation date in 2026. My interests lie in the exciting field of machine learning, particularly deep learning and large language models (LLMs).
+I am a student at the University of Kansas, currently pursuing a degree in Computer Science with an expected graduation date in 2026. My interests lie in the exciting field of machine learning, particularly deep learning and large language models (LLMs). I have also begun working on front end applications with TypeScript and React.
 
 ## About Me
 
@@ -31,6 +31,8 @@ I am a student at the University of Kansas, currently pursuing a degree in Compu
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
