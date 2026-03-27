@@ -6,7 +6,7 @@ I am a student at the University of Kansas, currently pursuing a degree in Compu
 
 - 🌱 **Currently Learning:**
   - LangChain
-  - OpenAI Models and Implementation
+  - Claude Skills and Integration for Programming
   - React Frontends
 
 - 💻 **Projects:**
