@@ -26,7 +26,7 @@ I am a student at the University of Kansas, currently pursuing a degree in Compu
 
 ## GitHub Stats
 
-![Zachsevart's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachsevart&show_icons=true&theme=radical)
+![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachsevart&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ## Languages and Tools
 
