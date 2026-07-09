@@ -1,18 +1,16 @@
 # Hi 👋
 
-I am a student at the University of Kansas, currently pursuing a degree in Computer Science with an expected graduation date in 2026. My interests lie in the exciting field of machine learning, particularly deep learning and large language models (LLMs). I have also begun working on front end applications with TypeScript and React.
-
 ## About Me
 
 - 🌱 **Currently Learning:**
-  - LangChain
+  - MCP Integration
   - Claude Skills and Integration for Programming
   - React Frontends
 
 - 💻 **Projects:**
   - Developing small apps to explore the integration of LangChain, OpenAI models, and vector databases.
   - Experimenting with AI engineering principles and practices.
-  - Creating a fantasy football analysis tool with python and streamlit
+  - Creating a Uber-like application for my fraternity to use as an intuitive designated driver queue.
   - Using React Native to create a Niche Dessert finder app, integrating video reviews and "Tinder" swiping to save or skip locations
 
 - 🤝 **Looking to Collaborate On:**
